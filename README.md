@@ -1,15 +1,15 @@
 # Logistic_Regression
 
-Project's Title: Logistic_Regression
+### Project's Title: Logistic_Regression
 
 
-Project Description (Problem Satement): 
+### Project Description (Problem Satement): 
 - Suppose we are consulting company and we need to prepare a labor market report for next year and predict the average annual salary for the labor force in a particular region with the relevant working experience.
 
 We have a dataset with average annual salaries, in US$ for a labor force that corresponds to work experience, in years for particular field 
 
 
-Table of Contents:
+### Table of Contents:
 1. Importing modules
 2. Logistic Regression\
     2.1. Problem Statement\
@@ -31,7 +31,7 @@ Table of Contents:
     3.8. Evaluating regularized logistic regression model
 
 
-How to Install and Run the Project:
+### How to Install and Run the Project:
 
 For successful running this project you have to do the following steps:
 
@@ -44,6 +44,6 @@ For successful running this project you have to do the following steps:
 	Step 4. Run each cell with Python code within the Jupyter Notebook file sequentially following the instructions. Moreover, get familiar with a theoretical background and comprehensive interpretations of the employed Machine Learning Model to execute the goals of the underlying problem statement.
 
 
-Support:
+### Support:
 
 In case of any bags or additional questions concering incorrect code execution please contact author via Discord (username: VladCh). 
