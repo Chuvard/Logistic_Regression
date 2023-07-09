@@ -3,10 +3,10 @@
 ### Project's Title: Logistic_Regression
 
 
-### Project Description (Problem Satement): 
+### Project Description (Problem Statement): 
 - Suppose we are consulting company and we need to prepare a labor market report for next year and predict the average annual salary for the labor force in a particular region with the relevant working experience.
 
-We have a dataset with average annual salaries, in US$ for a labor force that corresponds to work experience, in years for particular field 
+We have a dataset with average annual salaries, in US$ for a labor force that corresponds to work experience, in years for the particular field 
 
 
 ### Table of Contents:
@@ -33,11 +33,11 @@ We have a dataset with average annual salaries, in US$ for a labor force that co
 
 ### How to Install and Run the Project:
 
-For successful running this project you have to do the following steps:
+To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Logistic_Regression" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all reqired liabraries and dataframes from Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Section "Importing modules".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Logistic Machine Learning model execution.
 
@@ -46,4 +46,4 @@ For successful running this project you have to do the following steps:
 
 ### Support:
 
-In case of any bags or additional questions concering incorrect code execution please contact author via Discord (username: VladCh). 
+In case of any bags or additional questions concerning incorrect code execution please contact the author via Discord (username: VladCh). 
