@@ -37,7 +37,7 @@ To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Logistic_Regression" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all required libraries and data frames from the Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Sections "Importing modules" and "Loading and visualizing the data".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Logistic Machine Learning model execution.
 
